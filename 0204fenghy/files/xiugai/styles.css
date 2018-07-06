@@ -13,6 +13,7 @@
   z-index:0;
 }
 #u375 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -34,6 +35,7 @@
   text-align:left;
 }
 #u376_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -48,6 +50,7 @@
   box-shadow:none;
 }
 #u376 {
+  border-width:0px;
   position:absolute;
   left:318px;
   top:87px;
@@ -55,13 +58,15 @@
   height:16px;
 }
 #u377 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:30px;
+  width:29px;
   white-space:nowrap;
 }
 #u378 {
+  border-width:0px;
   position:absolute;
   left:304px;
   top:76px;

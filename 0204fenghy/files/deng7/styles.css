@@ -13,6 +13,7 @@
   z-index:0;
 }
 #u425_img {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -20,6 +21,7 @@
   height:640px;
 }
 #u425 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -27,6 +29,7 @@
   height:640px;
 }
 #u426 {
+  border-width:0px;
   position:absolute;
   left:2px;
   top:312px;
@@ -35,6 +38,7 @@
   word-wrap:break-word;
 }
 #u427 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;

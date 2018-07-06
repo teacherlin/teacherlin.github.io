@@ -13,6 +13,7 @@
   z-index:0;
 }
 #u0_div {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -27,6 +28,7 @@
   box-shadow:none;
 }
 #u0 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -34,6 +36,7 @@
   height:640px;
 }
 #u1 {
+  border-width:0px;
   position:absolute;
   left:2px;
   top:312px;
@@ -42,6 +45,7 @@
   word-wrap:break-word;
 }
 #u2_img {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -49,6 +53,7 @@
   height:640px;
 }
 #u2 {
+  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -56,6 +61,7 @@
   height:640px;
 }
 #u3 {
+  border-width:0px;
   position:absolute;
   left:2px;
   top:312px;

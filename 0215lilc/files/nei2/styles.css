@@ -1,0 +1,114 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:360px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u316_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:678px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u316 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:678px;
+}
+#u317 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:331px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u318_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:1440px;
+}
+#u318 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-18px;
+  width:360px;
+  height:1440px;
+}
+#u319 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:712px;
+  width:356px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u320 {
+  border-width:0px;
+  position:absolute;
+  left:122px;
+  top:0px;
+  width:118px;
+  height:51px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u321 {
+  border-width:0px;
+  position:absolute;
+  left:310px;
+  top:0px;
+  width:50px;
+  height:51px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u322 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:51px;
+  width:360px;
+  height:155px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u323 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:224px;
+  width:360px;
+  height:124px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
